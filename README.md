@@ -17,6 +17,6 @@
 ## Installation
 
 - Go to your `fabric` folder
-- clone the repo `git clone -----`
+- clone the repo `git clone https://github.com/lorenzotomasdiez/custom-patterns.git`
 - run `sh install.sh`
 - Done! Check your `fabric --list` to check if the pattern is installed.
