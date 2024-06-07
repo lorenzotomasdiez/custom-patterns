@@ -3,6 +3,8 @@
 
 <img src="./images/fabric-logo-gif.gif" alt="fabriclogo" width="400" height="400"/>
 
+</div>
+
 # `fabric Custom Patterns`
 
 ## List
