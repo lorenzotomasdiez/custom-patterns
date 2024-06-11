@@ -69,9 +69,13 @@ output:
   - Started designing the "Select Payment Method" interface.
   - Conducted research on publishing a private npm package via GitLab's package registry. Plan to consult with Irene for further details and welcome any additional help.
 
+## Requirements
+
+- fabric CLI installed
+
 ## Installation
 
 - Go to your `fabric` folder
 - clone the repo `git clone https://github.com/lorenzotomasdiez/custom-patterns.git`
 - run `sh install.sh`
-- Done! Check your `fabric --list` to check if the pattern is installed.
+- Done! Run `fabric --list` to check if the pattern is installed.
