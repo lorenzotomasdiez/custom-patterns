@@ -58,8 +58,8 @@ research on how to publish a private npm package at gitlab package registry (wil
 
 output:
 
-```
 - **Intafans**:
+
   - Addressed and fixed a bug affecting the display of the last message in conversations (IFG-211).
   - Began integration of API and implementation of logic for a new Bulk Messaging Page feature (IFG-294), though it's not yet completed.
   - Paused development on Intafans to shift focus to Payorc project.
@@ -68,7 +68,6 @@ output:
   - Created a new repository on GitLab and uploaded all current work.
   - Started designing the "Select Payment Method" interface.
   - Conducted research on publishing a private npm package via GitLab's package registry. Plan to consult with Irene for further details and welcome any additional help.
-```
 
 ## Installation
 
