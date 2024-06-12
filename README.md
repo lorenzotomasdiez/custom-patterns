@@ -14,6 +14,8 @@
 - [GitLab Bug Story](#gitlab-bug-story)
 - [Translate to Spanish](#translate-to-spanish)
 - [Click up Weekly Summary](#click-up-weekly-summary)
+- [Improve article](#improve-article)
+- [Translate article to Spanish](#translate-article-to-spanish)
 - [Installation](#installation)
 
 ## Gitlab User Story
@@ -68,6 +70,15 @@ output:
   - Created a new repository on GitLab and uploaded all current work.
   - Started designing the "Select Payment Method" interface.
   - Conducted research on publishing a private npm package via GitLab's package registry. Plan to consult with Irene for further details and welcome any additional help.
+
+## Improve article
+
+`improve_article` is a custom pattern that can be used to enhance by improving writing quality, adding more information, or correcting errors. It is made for software development articles. It will return the same article enhanced.
+You can use your `pbpaste` to pipe the article to the pattern.
+
+## Translate article to Spanish
+
+`t_s_article` is a custom pattern that can be used to translate an article to Spanish. It is made for software development articles. It will return the same article translated to Spanish without touching the code blocks.
 
 ## Requirements
 
