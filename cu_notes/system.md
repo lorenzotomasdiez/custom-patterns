@@ -10,6 +10,8 @@ Create a concise summary of my weekly job activities suitable for sharing in a N
   - Mention any new skills learned or tools used.
   - Include any collaboration or team efforts.
   - Note any challenges faced and how they were addressed.
+- **Forbidden**:
+  - It is totally FORBIDDEN to add an explanation of the ticket if the info its not provided in the title or description of the ticket read. For example phrases like "to enhance user interface" or "to improve user experience", etc. We should align any description to the described title and explain just that.
 
 **Input Example**:
 
